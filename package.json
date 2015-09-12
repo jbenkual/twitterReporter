@@ -1,0 +1,11 @@
+{
+  "name": "twitter_report",
+  "version": "1.0.0",
+  "description": "Email a comprehensive report of twitter activity related to a topic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
